@@ -1,3 +1,13 @@
-# Persistent treewidth competition instances
+# Treewidth: Challenging bonus instances (PACE 2017)
 
-These graphs were derived from various sources. Solving them in five minutes would require a 1000x speed improvement over the winner implementations of PACE 2017.
+The [instance set](//github.com/PACE-challenge/Treewidth-PACE-2017-instances) used in the _exact_ treewidth challenge of PACE 2017 is now considered to be too easy. Therefore, this bonus instance set has been created to offer a fresh and difficult challenge. In particular, solving these instances in five minutes would require a 1000x speed improvement over the best exact treewidth solvers of PACE 2017.
+
+[gr/](gr/) contains 100 instances for exact treewidth computation.
+
+[td/](td/) contains the optimal tree decompositions (if known).
+
+[instances.csv](instances.csv) lists the instances, the treewidth (if known), and the time required to compute the treewidth.
+
+## Further Links
+
+- There is also a [list of treewidth solvers, instances, and tools](//github.com/PACE-challenge/Treewidth).
