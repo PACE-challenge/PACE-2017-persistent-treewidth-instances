@@ -10,4 +10,4 @@ The [instance set](//github.com/PACE-challenge/Treewidth-PACE-2017-instances) us
 
 ## Further Links
 
-- There is also a [list of treewidth solvers, instances, and tools](//github.com/PACE-challenge/Treewidth).
+- There is a [list of treewidth solvers, instances, and tools](//github.com/PACE-challenge/Treewidth), which also describes the .gr and .td formats.
